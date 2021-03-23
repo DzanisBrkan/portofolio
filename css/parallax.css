@@ -1,0 +1,12 @@
+.margin {
+    margin: 5% 0;
+}
+
+.parallax {
+    background-color: black;
+    background: url("../img/WhatIDo.png") fixed 100%;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    color: var(--clr-light);
+    text-align: center;
+}
